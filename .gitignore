@@ -1,0 +1,31 @@
+# Ignore build outputs
+[Bb]in/
+[Oo]bj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+
+# Ignore IDE-specific files
+.vs/
+.vscode/
+.idea/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore local development files
+.env
+.local
+
+# Ignore logs and diagnostics
+logs/
+*.log
+*.csv
+
+# Ignore other files
+*.swp
+*.swo
+*.cache
